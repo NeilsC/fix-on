@@ -1,3 +1,6 @@
+# folder containing openaddresses.io data
+data/
+
 *.gem
 *.rbc
 /.config
